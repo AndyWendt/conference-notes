@@ -241,4 +241,8 @@ zend_parse_parameters
 
 Variable args (any) or (1 or more) 
 
+---
+
+Return value macros
+
 
