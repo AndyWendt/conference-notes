@@ -11,6 +11,12 @@ Other presentations by Elizabeth Smith: http://www.slideshare.net/auroraeosrose
 https://nikic.github.io/2015/05/05/Internal-value-representation-in-PHP-7-part-1.html   
 https://nikic.github.io/2015/06/19/Internal-value-representation-in-PHP-7-part-2.html 
 
+https://joind.in/talk/56f05
+
+
+PHP mentoring channel: #phpmentoring
+Channel for extension creation help: #gophp7-ext 
+
 ## Ease of Extension Writing
 
 Wrapper extensions are the easiest. Wrapped in PHP
@@ -367,4 +373,10 @@ wiki.php.net/internals/zend_mm
 By PHP 7.5 most likely there will be no resources
 
 Streams in PHP are unfinished but are neat.    
+
+
+---
+
+
+
 
