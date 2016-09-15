@@ -126,39 +126,6 @@ zend_module_entry uriparser_module_entry = {
 
 `-m` dumps the modules that are loading
 
-
-### Writing a test
-
-http://qa.php.net/write-test.php 
-
-### Writing a test
-
-http://qa.php.net/write-test.php 
-
-### Writing a test
-
-http://qa.php.net/write-test.php 
-
-### Writing a test
-
-http://qa.php.net/write-test.php 
-
-### Writing a test
-
-http://qa.php.net/write-test.php 
-
-### Writing a test
-
-http://qa.php.net/write-test.php 
-
-### Writing a test
-
-http://qa.php.net/write-test.php 
-
-### Writing a test
-
-http://qa.php.net/write-test.php 
-
 ### Writing a test
 
 http://qa.php.net/write-test.php 
