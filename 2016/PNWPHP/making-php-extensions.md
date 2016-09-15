@@ -56,7 +56,7 @@ make test
 
 ### FFI
 
-https://github.com/mgdm/mffi 
+A project to make a new FFI for PHP: https://github.com/mgdm/mffi 
 
 ### Tests
 
@@ -352,5 +352,16 @@ Can throw missing parameters as an exception in PHP7 instead of a warning.
 Don't mess with the return value in a constructor!  
 
 
+A lot of stuff is not clonable.   
+
+
+## PHP Memory
+
+A lot of programs don't return memory to the system which is why PHPs memory keeps growing and growing.  
+
+wiki.php.net/internals/zend_mm
+
+
+By PHP 7.5 most likely there will be no resources
 
 
