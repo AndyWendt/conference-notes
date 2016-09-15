@@ -329,3 +329,18 @@ Good to use Namespace `_` method name as a convention for naming methods.
 See add-class-methods branch
 
 
+`zend_update_property_stringl()`
+
+Traits are compiler assisted copy and paste.  They don't make much sense at a C level. 
+
+Remember always to flag your constructors and destructors.   
+
+
+## Advanced topics
+
+Only thing that PHP manages memory wise is what it actually works with.  Third party libraries, PHP is not managing or holding onto that memory.   
+
+NEVER use resources.   
+
+
+
