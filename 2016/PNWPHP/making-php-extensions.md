@@ -182,3 +182,11 @@ https://nikic.github.io/2015/05/05/Internal-value-representation-in-PHP-7-part-1
 https://nikic.github.io/2015/05/05/Internal-value-representation-in-PHP-7-part-1.html 
 
 
+Mapping c types from ZVAL
+
+Used to allocate memory for each zval 
+
+Instead of heap allocation, stack allocation in PHP7.  Good and bad    
+
+
+
