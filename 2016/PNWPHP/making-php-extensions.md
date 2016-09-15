@@ -264,5 +264,9 @@ More important to type hint a complext type than a simple type
 
 use `php_printf()` for debugging though you have to do string formatting every time with it unlike in php.   
 
+---
 
+Make a constant for your namespace since someone may be sitting on your namespace in C.  Only the php core libraries should be in root namespace not your code though some old PECL extensions do pollute the global namespace.  
+
+ 
 
