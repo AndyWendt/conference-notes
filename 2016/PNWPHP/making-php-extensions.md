@@ -290,5 +290,14 @@ PHP7 has immutable date times.   Immutable classes are a thing in PHP7 core.
 
 A zend_extension can override OPCODES 
 
- 
+Keyloggers have been implemented using zend_extensions--very powerful.  They are very slow though.    
+
+
+Less you have in MINIT the better. 
+
+Seee lifecycle graph and threaded graph
+
+Changed the way that threading & globals work starting with PHP 7 
+
+
 
