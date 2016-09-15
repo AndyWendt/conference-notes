@@ -345,5 +345,9 @@ NEVER use resources.
 
 ### Custom Objects
 
-Special struct which is the object.  
+Special struct which is the object. 
+
+Can throw missing parameters as an exception in PHP7 instead of a warning.
+
+ 
 
