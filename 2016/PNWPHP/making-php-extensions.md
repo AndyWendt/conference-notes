@@ -250,4 +250,17 @@ Returning complex data: array_init()  && object_init()
 Many of these found in zendapi.h
 
 
+### Classes
+
+Are an interesting struct in the underlying c
+
+Classes and interfaces are essentially the same when compiled down in C  
+
+---
+
+More important to type hint a complext type than a simple type 
+
+---
+
+ 
 
