@@ -43,4 +43,77 @@ make test
 ```
 
 
+---
+
+### FFI
+
+https://github.com/mgdm/mffi 
+
+### Tests
+
+http://qa.php.net/  
+http://gcov.php.net/  
+
+Test passing in good and bad parameters and match what is coming out.
+
+
+### Scaffolding
+
+`php_<yourextensionname>.c` && `php_<yourextensionname>.h` for you header file
+
+see scaffolding for example of scaffolding an extension
+
+Must include these with the name of the extension (uriparser)
+
+```c
+/* Required for dynamic linking */
+#ifdef COMPILE_DL_URIPARSER
+ZEND_GET_MODULE(uriparser)
+#endif 
+```
+
+Go to lxr for plugin examples where you can copy pasta code and configuration elements for plugins.  Most of the setup for a plugin is copy pasta.
+
+```
+dnl uriparser extension
+
+PHP_ARG_WITH(uriparser, An RFC compliant URI parser,
+[  --with-uriparser            Enable uriparser support], yes)
+                                                         // whether on by default (yes) 
+if test "$PHP_URIPARSER" != "no"; then
+  PHP_NEW_EXTENSION(uriparser, php_uriparser.c, $ext_shared)
+                                                // pass 1 to enable sharing (ext_shared)
+fi 
+```
+
+### Module struct
+
+```
+/* {{{ uriparser_module_entry */
+zend_module_entry uriparser_module_entry = {
+    STANDARD_MODULE_HEADER,
+    "uriparser",
+    uriparser_functions,
+    NULL, /* MINIT */
+    NULL, /* MSHUTDOWN */
+    NULL, /* RINIT */
+    NULL, /* RSHUTDOWN */
+    PHP_MINFO(uriparser), /* MINFO */
+    /* you can use `NO_VERSION_YET` and should until your first release
+    PHP_URIPARSER_VERSION, /* USE NO_VERSION_YET at the very least */  
+    STANDARD_MODULE_PROPERTIES
+};
+/* }}} */ 
+
+```
+
+
+### Scaffolding rules
+
+1. Name files in a standard way
+2. Document
+3. Read the coding stanards
+4. Follow the coding standards  
+5. Use version control
+
 
