@@ -94,10 +94,15 @@ zend_module_entry uriparser_module_entry = {
     STANDARD_MODULE_HEADER,
     "uriparser",
     uriparser_functions,
+    /* MINIT is run at the start of php, register locals etc */  
     NULL, /* MINIT */
+    /* when php shuts down */
     NULL, /* MSHUTDOWN */
+   /* RINIT start of request */
     NULL, /* RINIT */
+    /* at end of request */
     NULL, /* RSHUTDOWN */
+    /* called when you call phpinfo() */
     PHP_MINFO(uriparser), /* MINFO */
     /* you can use `NO_VERSION_YET` and should until your first release
     PHP_URIPARSER_VERSION, /* USE NO_VERSION_YET at the very least */  
@@ -161,4 +166,6 @@ http://qa.php.net/phpt_details.php
 
 
 With PHPT tests ALWAYS add closing `?>` tag.  
+
+
 
