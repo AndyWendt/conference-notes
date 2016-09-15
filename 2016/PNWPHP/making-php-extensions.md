@@ -245,4 +245,9 @@ Variable args (any) or (1 or more)
 
 Return value macros
 
+Returning complex data: array_init()  && object_init()  
+
+Many of these found in zendapi.h
+
+
 
