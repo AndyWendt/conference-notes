@@ -14,8 +14,10 @@ https://nikic.github.io/2015/06/19/Internal-value-representation-in-PHP-7-part-2
 https://joind.in/talk/56f05
 
 
-PHP mentoring channel: #phpmentoring
-Channel for extension creation help: #gophp7-ext 
+PHP mentoring channel: #phpmentoring  
+Channel for extension creation help: #gophp7-ext    
+
+Most of the knowledge about PHP extensions is tribal.
 
 ## Ease of Extension Writing
 
