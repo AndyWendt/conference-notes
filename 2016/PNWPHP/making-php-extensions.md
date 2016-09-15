@@ -1,10 +1,15 @@
 # Making PHP Extensions
 
+## Resources
+
 https://github.com/auroraeosrose/php-extensions-code
 
 http://www.slideshare.net/auroraeosrose/php-extensions-45834933 
 
 Other presentations by Elizabeth Smith: http://www.slideshare.net/auroraeosrose  
+
+https://nikic.github.io/2015/05/05/Internal-value-representation-in-PHP-7-part-1.html   
+https://nikic.github.io/2015/06/19/Internal-value-representation-in-PHP-7-part-2.html 
 
 ## Ease of Extension Writing
 
