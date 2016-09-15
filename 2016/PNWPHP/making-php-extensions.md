@@ -306,4 +306,26 @@ Most people don't use PHP in threaded mode because of a slowdown though that slo
 Use constants wherever you can since returning `0` rather than `SUCCESS` is crazy even though they are doing the same thing.
 
 
+---
+
+Do a lot of `var_dump()` when you write your tests
+
+
+
+----
+
+### Class constants
+
+Making a class and adding constants to it
+
+Never put constants in the global namespace!!!!  Always add them to a class  
+
+
+
+### Methods 
+
+Good to use Namespace `_` method name as a convention for naming methods.  
+
+See add-class-methods branch
+
 
