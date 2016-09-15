@@ -343,4 +343,7 @@ Only thing that PHP manages memory wise is what it actually works with.  Third p
 NEVER use resources.   
 
 
+### Custom Objects
+
+Special struct which is the object.  
 
