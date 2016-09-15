@@ -135,4 +135,50 @@ http://qa.php.net/phpt_details.php
 With PHPT tests ALWAYS add closing `?>` tag.  
 
 
+### PHP info 
+
+Where you write php info
+
+```
+/* {{{ PHP_MINFO_FUNCTION */
+PHP_MINFO_FUNCTION(uriparser)
+{
+    php_info_print_table_start();
+    php_info_print_table_header(2, "Uriparser Library Bindings", "enabled");
+    php_info_print_table_row(2, "Extension Version", PHP_URIPARSER_VERSION);
+    php_info_print_table_end();
+}
+/* }}} */ 
+```
+
+### functions for the module
+
+Define in here
+
+```
+/* {{{ uriparser_functions[] */
+static const zend_function_entry uriparser_functions[] = {
+        ZEND_FE_END
+};
+/* }}} */ 
+```
+
+C version of include once: 
+
+`#ifndef PHP_URIPARSER_H`
+
+include php headers in your header or main php file
+
+```
+#include "php.h" 
+```
+
+### ZVAL 
+
+Zend value `zval`
+
+https://nikic.github.io/2015/05/05/Internal-value-representation-in-PHP-7-part-1.html 
+
+https://nikic.github.io/2015/05/05/Internal-value-representation-in-PHP-7-part-1.html 
+
 
