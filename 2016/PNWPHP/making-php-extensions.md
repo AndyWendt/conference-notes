@@ -1,6 +1,10 @@
 # Making PHP Extensions
 
-https://github.com/auroraeosrose/php-extensions-code 
+https://github.com/auroraeosrose/php-extensions-code
+
+http://www.slideshare.net/auroraeosrose/php-extensions-45834933 
+
+Other presentations by Elizabeth Smith: http://www.slideshare.net/auroraeosrose  
 
 ## Ease of Extension Writing
 
