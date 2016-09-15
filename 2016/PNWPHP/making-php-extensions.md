@@ -117,3 +117,48 @@ zend_module_entry uriparser_module_entry = {
 5. Use version control
 
 
+`php -d extension=myext.so -m` 
+
+`-m` dumps the modules that are loading
+
+
+### Writing a test
+
+http://qa.php.net/write-test.php 
+
+### Writing a test
+
+http://qa.php.net/write-test.php 
+
+### Writing a test
+
+http://qa.php.net/write-test.php 
+
+### Writing a test
+
+http://qa.php.net/write-test.php 
+
+### Writing a test
+
+http://qa.php.net/write-test.php 
+
+### Writing a test
+
+http://qa.php.net/write-test.php 
+
+### Writing a test
+
+http://qa.php.net/write-test.php 
+
+### Writing a test
+
+http://qa.php.net/write-test.php 
+
+### Writing a test
+
+http://qa.php.net/write-test.php 
+http://qa.php.net/phpt_details.php 
+
+
+With PHPT tests ALWAYS add closing `?>` tag.  
+
