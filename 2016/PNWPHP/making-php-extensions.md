@@ -189,4 +189,50 @@ Used to allocate memory for each zval
 Instead of heap allocation, stack allocation in PHP7.  Good and bad    
 
 
+----
+
+Autotools is awful. 
+
+----
+
+In `config.m4`, it is good to copy and paste from other libraries.   
+
+
+
+----
+
+Even if you don't have any arguments, always add zend begin & add arguments. 
+
+----
+
+### Creating a php function
+
+```
+/* return types etc */
+/* {{{ proto int uriparser_version(void)
+ Returns a string version number of the uriparser library being used */
+/* php func then name in perentheses */
+PHP_FUNCTION(uriparser_version)
+{
+    if (zend_parse_parameters_none() == FAILURE) {
+        return;
+    }
+   
+   
+    RETURN_STRING(URI_VER_ANSI);
+}
+/* }}} */ 
+```
+
+Adding  a php function entry
+
+```
+/* {{{ uriparser_functions[] */
+static const zend_function_entry uriparser_functions[] = {
+    PHP_FE(uriparser_version, uriparser_version_args)
+    ZEND_FE_END
+};
+/* }}} */ 
+```
+
 
