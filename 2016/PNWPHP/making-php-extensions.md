@@ -362,6 +362,9 @@ A lot of programs don't return memory to the system which is why PHPs memory kee
 wiki.php.net/internals/zend_mm
 
 
+---
+
 By PHP 7.5 most likely there will be no resources
 
+Streams in PHP are unfinished but are neat.    
 
