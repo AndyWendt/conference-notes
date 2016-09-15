@@ -262,5 +262,7 @@ More important to type hint a complext type than a simple type
 
 ---
 
- 
+use `php_printf()` for debugging though you have to do string formatting every time with it unlike in php.   
+
+
 
