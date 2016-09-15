@@ -299,5 +299,11 @@ Seee lifecycle graph and threaded graph
 
 Changed the way that threading & globals work starting with PHP 7 
 
+Most people don't use PHP in threaded mode because of a slowdown though that slowdwon is about half in PHP 7.
+
+---
+
+Use constants wherever you can since returning `0` rather than `SUCCESS` is crazy even though they are doing the same thing.
+
 
 
