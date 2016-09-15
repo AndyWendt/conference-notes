@@ -345,9 +345,12 @@ NEVER use resources.
 
 ### Custom Objects
 
-Special struct which is the object. 
+Special struct which is the object. https://github.com/gtkforphp/cairo  
 
 Can throw missing parameters as an exception in PHP7 instead of a warning.
 
- 
+Don't mess with the return value in a constructor!  
+
+
+
 
