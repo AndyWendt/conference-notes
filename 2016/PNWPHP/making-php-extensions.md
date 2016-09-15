@@ -282,5 +282,13 @@ Make a constant for your namespace since someone may be sitting on your namespac
 
 ## Lifecycle
 
+Arrays are not apart of php core.
 
+PHP7 has immutable date times.   Immutable classes are a thing in PHP7 core.     
+
+---
+
+A zend_extension can override OPCODES 
+
+ 
 
