@@ -4,7 +4,7 @@ https://joind.in/event/pnwphp-2016
 
 Life is not won by having more toys, you win life through more memories!
 
-## Contribute 
+### Contribute 
 
 Contribute to other peoples lives: your family, work, etc.
 
@@ -16,6 +16,21 @@ Must crawl first before you run. Example: Facebook.  Started with humble beginni
 
 If people push you to go faster, you probably need to slow down since we don't work as well when we are pushed faster. 
 
-Learning slow is better than learning fast.   
+Learning slow is better than learning fast.  You learn, as a developer, mostly by hands-on doing. 
+
+When you succeed at something, and people are cheering for you, of course you love it.     
+
+
+
+### Poor Choices
+
+Can I afford to be late, or skip out?
+
+
+### Over Commit
+
+Avoid crunch-time: don't jump into the hay.  Learn to say "no"! 
+
+ 
 
 
