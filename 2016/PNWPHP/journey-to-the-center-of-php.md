@@ -37,3 +37,9 @@ Get over your inferiority complex.  Not all RFCs pass easily but the contributio
 
 Even when you get to "top", you still don't know what you are doing.  
 
+
+Many ways to contribute to internals: tests, docs, bugs, PHP.net website.  
+
+
+
+
