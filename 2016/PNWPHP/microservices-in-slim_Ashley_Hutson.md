@@ -14,4 +14,8 @@ Microframeworks are used for more precise applications.
 
 ### Slim 
 
+No MVC in Slim.  
+
+Create your own environment using composer.   
+
 
