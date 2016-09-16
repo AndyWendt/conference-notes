@@ -24,6 +24,9 @@ Room 11 on stackoverflow for php developers
 
 Before you can create an RFC, you need wiki karma on wiki.php.net
 
+signup then email mailing lists, ask for wiki karma and then keep bugging them for it until you get the wiki karma.  
+
+
 
 
 
