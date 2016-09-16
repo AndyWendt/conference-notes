@@ -4,6 +4,8 @@ Code for presentation:
 
 https://github.com/asheliahut/simple-microservices-presentation 
 
+https://joind.in/talk/e7435
+
 ---
 
 ### Microservices
