@@ -29,6 +29,9 @@ Q: Docker, machine learning, and data science
 A: 
     - Expectations of the next generation for machine learning are going to be expected.  
     - Using docker to do your testing, code quality, and improve other CI elements
+    - we will all need an appreciation for data science and machine learning    
+    - Most places are just doing automated statistics and not machine learning  
+    - Imagine async php
 
-  
+
 
