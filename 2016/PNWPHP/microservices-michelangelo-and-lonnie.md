@@ -4,7 +4,8 @@ Memory issues are often an indicator of how the application was coded--not very 
 
 Microservices, Docker, Async PHP
 
-SOLID principles foundation of the microservices ideas.   
+SOLID principles foundation of the microservice ideas. 
 
+Use iterators since they will help you build better applications.
 
 
