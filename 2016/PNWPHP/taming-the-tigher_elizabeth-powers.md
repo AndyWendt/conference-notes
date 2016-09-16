@@ -33,4 +33,20 @@ In PHP, everything uses streams.  All file and IO access goes through the stream
 
 >"Whatever you choose to do depends on what you are trying to accomplish."
 
+Only attach compression on a write stream.  
+
+
+Streams have an input and output state.  Will need to cache until you get to a certain point.    
+
+Often better to use a different language for complex things than PHP if needed (C, etc).  
+
+---
+
+Process with the Appropriate Tools.  Sometimes you should do the work in a data store (DB, etc).  
+
+---
+
+Offload work so that you don't keep the user waiting.  
+
+
 
