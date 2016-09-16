@@ -15,6 +15,15 @@ Problem -> Proposed solution -> Personal Learning
 
 ### Writing PHP extensions 
 
+Sara Goldman's article on writing extensions for php.
+
 Room 11 on stackoverflow for php developers
+
+
+### RFC process
+
+Before you can create an RFC, you need wiki karma on wiki.php.net
+
+
 
 
