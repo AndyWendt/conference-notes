@@ -2,7 +2,7 @@
 
 APIs allow you to shard off services.  
 
-## SOAP
+## Design
 
- 
+Treat your API and content similarly.    
 
