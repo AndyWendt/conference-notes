@@ -1,7 +1,8 @@
 # My Journey to the Center of PHP  -- Sammy Kay Powers
 
-@SammyK
-joind.in/talk/6b9c9
+@SammyK  
+joind.in/talk/6b9c9  
+SammyK.me  
 
 CSPRNG
 
