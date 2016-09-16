@@ -12,5 +12,7 @@ Arrays break your memory limits, use iterators instead.
 
 Once you get your application at a good spot memory wise, then you can scale using docker.  
 
+Microservices are like the three musketeers: all fighting and working together for the same cause.  
 
+Bleed awesomness, not memory -- Michelangelo.  
 
