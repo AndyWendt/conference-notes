@@ -21,5 +21,12 @@ Track everything: just put it in a bash script then work towards something elega
 
 Automate code pushes.  Checklists don't save you since they can be circumvented.   Automation is the way to go.  
 
+Use Ansible for provisioning. 
+
+Puppet is an actual configuration setup.   
+- Constantly phones home to see if the client server is compliant.  
+
+Erika Heidi's Vagrant Cookbook
+
 
 
