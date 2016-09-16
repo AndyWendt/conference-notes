@@ -28,6 +28,15 @@ Never forget a mistake.  Need to plan better: what will you do when you run into
 
 "If you don't have a plan to succeed, you will work for someone who does."    
 
-     
+Proper requirements gathering: buy the right motorcycle for the person by gathering the right requirements.
+
+* Crawl before you walk
+* Be responsible
+* Don't over-commit
+* Plan Properly
+* Gather Requirements
+* Learn, be open, share
+
+        
 
 
