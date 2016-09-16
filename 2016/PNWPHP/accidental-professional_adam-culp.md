@@ -37,6 +37,9 @@ Proper requirements gathering: buy the right motorcycle for the person by gather
 * Gather Requirements
 * Learn, be open, share
 
-        
+
+Be remembered for your accomplishments.
+
+
 
 
