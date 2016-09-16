@@ -16,5 +16,9 @@ A:
     - Mobile, optimizing for it.  
     - Emotional change: less fear so more collaboration between frameworks and packages.packages
 
+Q: Followup: What do you wish people would change?
 
+A: 
+    - PHP get better at community facilitation.  We don't know how to help one another.   
+    -  
 
