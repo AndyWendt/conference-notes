@@ -2,6 +2,7 @@
 
 https://joind.in/event/pnwphp-2016/here-be-dragons-what-its-really-like-to-slay-a-monolith 
 
+
 ## Code Level Problems at Refinery 29
 
 * un-reason-able
@@ -84,11 +85,24 @@ Delivery API
 
 * DE-normalized (doesn't access db)
 
-
 CMS -> CONTENT (MySQL) -> BUILD (datastore) | DELIVER -> CLIENTS
 
 Look up Beberlei Assert
 
 Shrikeh Teapot for status codes
 
+### Devops
 
+Talkw with devops often, talk with devops early.  
+
+
+
+----
+
+Killing a monolith requires a technical culture shift
+
+Not as easy as it looks.
+
+It's a marathon, not a sprint
+
+Design.  Document. Implement.
