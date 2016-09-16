@@ -1,6 +1,7 @@
 # Taming the Tiger
 
-https://en.wikipedia.org/wiki/Computer_science 
+https://en.wikipedia.org/wiki/Computer_science   
+http://www.slideshare.net/auroraeosrose  
 
 >"The laws of physics apply to no matter what you are doing in computing."
 
@@ -30,4 +31,6 @@ Go to wikipedia and lookup Computer Science if you haven't gone through a proper
 
 In PHP, everything uses streams.  All file and IO access goes through the streams access layer.   
 
- 
+>"Whatever you choose to do depends on what you are trying to accomplish."
+
+
