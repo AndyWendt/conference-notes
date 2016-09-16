@@ -1,5 +1,6 @@
 # My Journey to the Center of PHP  -- Sammy Kay Powers
 
+@SammyK
 joind.in/talk/6b9c9
 
 CSPRNG
@@ -24,9 +25,15 @@ Room 11 on stackoverflow for php developers
 
 Before you can create an RFC, you need wiki karma on wiki.php.net
 
-signup then email mailing lists, ask for wiki karma and then keep bugging them for it until you get the wiki karma.  
+Signup then email mailing lists, ask for wiki karma and then keep bugging them for it until you get the wiki karma.  
 
+RFC process is 2 weeks.  
 
+"They're not evaluating you, they're evaluating how your RFC will effect PHP."
 
+Then the voting process.  
 
+Get over your inferiority complex.  Not all RFCs pass easily but the contribution will be worthwile.  It will make people think about the system at hand. 
+
+  
 
