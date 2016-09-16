@@ -1,6 +1,10 @@
 # Taming the Tiger
 
-"The laws of physics apply to no matter what you are doing in computing."
+https://en.wikipedia.org/wiki/Computer_science 
+
+>"The laws of physics apply to no matter what you are doing in computing."
+
+### Arrays 
 
 Arrays are evil.  When you use arrays, you are putting data into your memory. 
 
@@ -14,5 +18,16 @@ Don't use `fetch_all` with PDO.
 
  Always page your database data.  
 
+Use generators or iterators instead of arrays.  Generators are the lazy man's iterators.  
+
+---
+
+### Streams
+
+
+Go to wikipedia and lookup Computer Science if you haven't gone through a proper CS course.  
+
+
+In PHP, everything uses streams.  All file and IO access goes through the streams access layer.   
 
  
