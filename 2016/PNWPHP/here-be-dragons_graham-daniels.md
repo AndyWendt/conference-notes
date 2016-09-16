@@ -65,4 +65,22 @@ What makes a good package: phppackagechecklist.com
 - Repositories 
 
 
+### Move the Band-Aids
+
+* Poorly modeled data
+* Problematic logic
+* Hacks
+* Workarounds
+
+>It is easier to move them, docment them, then fix them later.
+
+### Solutions
+
+Content
+
+* access to DB
+
+Delivery API
+
+* DE-normalized (doesn't access db)
 
