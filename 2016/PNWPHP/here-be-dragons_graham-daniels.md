@@ -29,6 +29,17 @@ Write as little code as possible.
 * Leverage composer
 * Use packagist 
 
- 
+
+How do you pick the right tools?
+
+What makes a good package: phppackagechecklist.com 
+
+* High quality
+* Well tested
+* Well documented
+* Well supported
+* Low bus factor
+
+
       
 
