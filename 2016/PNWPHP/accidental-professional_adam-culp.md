@@ -12,6 +12,10 @@ People are famous because they did something, generally not because they did som
 
 Let your actoins speak louder than potato salad!
 
+Must crawl first before you run. Example: Facebook.  Started with humble beginnings.    
 
+If people push you to go faster, you probably need to slow down since we don't work as well when we are pushed faster. 
+
+Learning slow is better than learning fast.   
 
 
