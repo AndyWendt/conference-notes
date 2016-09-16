@@ -58,6 +58,10 @@ Definitions:
 * Transport  
 * Wrapper  
 
-Most of the code you write today is obsolute tomorrow.  But that doesn't mean you have to write it poorly.   
+Most of the code you write today is obsolete tomorrow.  But that doesn't mean you have to write it poorly.   
 
 There are still a lot of COBOL programs out there that are crucial.  
+
+"How many of you have code that will run 20 years from today?"
+
+Learn to write quality code that we will want to use in 20 years without vomiting.  
