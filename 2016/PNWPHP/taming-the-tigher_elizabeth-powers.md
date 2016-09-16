@@ -38,7 +38,7 @@ Only attach compression on a write stream.
 
 Streams have an input and output state.  Will need to cache until you get to a certain point.    
 
-Often better to use a different language for complex things than PHP if needed (C, etc).  
+Often better to offload work to a different language for complex things than PHP if needed (C, etc).  
 
 Process with the Appropriate Tools.  Sometimes you should do the work in a data store (DB, etc).  
 
@@ -52,5 +52,9 @@ Network socket types:
 * datagram
 * raw
 
+Definitions: 
 
+* Socket   
+* Transport  
+* Wrapper  
 
