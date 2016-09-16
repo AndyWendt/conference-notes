@@ -30,7 +30,7 @@ Write as little code as possible.
 * Use packagist 
 
 
-How do you pick the right tools?
+### How do you pick the right tools?
 
 What makes a good package: phppackagechecklist.com 
 
@@ -38,8 +38,11 @@ What makes a good package: phppackagechecklist.com
 * Well tested
 * Well documented
 * Well supported
-* Low bus factor
+* Low bus factor (How many maintainers?)
 
+### Be as explicit as possible -- no magic
 
+* No public properties
+* 
       
 
