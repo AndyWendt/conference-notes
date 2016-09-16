@@ -1,5 +1,7 @@
 # Failing at Scale -- Tankersley
 
+http://joind.in/talk/64ad5
+
 ## Problems with distributed applications
 
 - Configurations must be consistent
