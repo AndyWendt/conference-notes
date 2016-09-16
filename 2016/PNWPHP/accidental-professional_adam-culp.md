@@ -4,7 +4,6 @@ https://joind.in/event/pnwphp-2016
 
 Life is not won by having more toys, you win life through more memories!
 
-### Contribute 
 
 Contribute to other peoples lives: your family, work, etc.
 
@@ -21,16 +20,14 @@ Learning slow is better than learning fast.  You learn, as a developer, mostly b
 When you succeed at something, and people are cheering for you, of course you love it.     
 
 
-
-### Poor Choices
-
-Can I afford to be late, or skip out?
-
-
-### Over Commit
+Can I afford to be late, or skip out?  When you don't show up on time then you are paying others and you are not receiving a fullness of what you could. 
 
 Avoid crunch-time: don't jump into the hay.  Learn to say "no"! 
 
- 
+Never forget a mistake.  Need to plan better: what will you do when you run into a bear.  
+
+"If you don't have a plan to succeed, you will work for someone who does."    
+
+     
 
 
