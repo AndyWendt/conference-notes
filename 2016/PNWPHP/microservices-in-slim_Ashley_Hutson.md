@@ -1,5 +1,7 @@
 # Building Simple Microservices Using Slim 3.0
 
+Code for presentation: 
+
 https://github.com/asheliahut/simple-microservices-presentation 
 
 ---
