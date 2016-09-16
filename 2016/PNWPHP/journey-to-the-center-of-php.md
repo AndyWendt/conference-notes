@@ -35,5 +35,5 @@ Then the voting process.
 
 Get over your inferiority complex.  Not all RFCs pass easily but the contribution will be worthwile.  It will make people think about the system at hand. 
 
-  
+Even when you get to "top", you still don't know what you are doing.  
 
