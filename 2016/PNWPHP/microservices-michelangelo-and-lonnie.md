@@ -1,3 +1,4 @@
-# Microservices -- Lonnie & Michelangelo
+# Leveraging a distributed architecture -- Lonnie & Michelangelo
+
 
 
