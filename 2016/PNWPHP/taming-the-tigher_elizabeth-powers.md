@@ -58,3 +58,6 @@ Definitions:
 * Transport  
 * Wrapper  
 
+Most of the code you write today is obsolute tomorrow.  But that doesn't mean you have to write it poorly.   
+
+There are still a lot of COBOL programs out there that are crucial.  
