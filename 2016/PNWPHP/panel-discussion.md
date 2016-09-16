@@ -20,5 +20,12 @@ Q: Followup: What do you wish people would change?
 
 A: 
     - PHP get better at community facilitation.  We don't know how to help one another.   
-    -  
+    - PHP user groups and greater attendance
+
+---   
+
+Q: Docker, machine learning, and data science
+
+A: 
+    - 
 
