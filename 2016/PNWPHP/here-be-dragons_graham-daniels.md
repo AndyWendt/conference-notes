@@ -84,3 +84,11 @@ Delivery API
 
 * DE-normalized (doesn't access db)
 
+
+CMS -> CONTENT (MySQL) -> BUILD (datastore) | DELIVER -> CLIENTS
+
+Look up Beberlei Assert
+
+Shrikeh Teapot for status codes
+
+
