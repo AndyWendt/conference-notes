@@ -40,13 +40,17 @@ Streams have an input and output state.  Will need to cache until you get to a c
 
 Often better to use a different language for complex things than PHP if needed (C, etc).  
 
----
-
 Process with the Appropriate Tools.  Sometimes you should do the work in a data store (DB, etc).  
 
----
-
 Offload work so that you don't keep the user waiting.  
+
+Microservices are essentially little job servers.  
+
+Network socket types: 
+
+* stream
+* datagram
+* raw
 
 
 
