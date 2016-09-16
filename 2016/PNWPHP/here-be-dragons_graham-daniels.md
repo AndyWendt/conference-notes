@@ -43,6 +43,26 @@ What makes a good package: phppackagechecklist.com
 ### Be as explicit as possible -- no magic
 
 * No public properties
-* 
-      
+* No magic methods
+* No reflection   
+* Intelligent extraction
+
+### Well defined conventions 
+
+* Do the same thing the same way, always.  
+
+* Easy to copy
+* Easier to learn
+* Easier to understand
+
+#### Types
+
+- Validators
+- Hydrators
+- Transformers
+- Controllers
+- Entities
+- Repositories 
+
+
 
