@@ -59,4 +59,8 @@ Caching is underutilized in REST even though it is in the spec.
 - OAuth
 - JWT
 
+### Security
+
+Don't rely on just one method of protection 
+
 
