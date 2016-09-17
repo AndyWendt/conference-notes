@@ -10,5 +10,7 @@ Your mobile device is your influencer.  You should think of your mobile site as 
 
 The average person interfaces with their mobile phone 150 times per day.  Average 177 minutes.  
 
+We brake down our interactions into micro moments.  Minutes on a site is gone on a mobile phone.  You only have thin slices of time on a mobile device.  How fast can you find the stores phone number?
 
+ 
 
