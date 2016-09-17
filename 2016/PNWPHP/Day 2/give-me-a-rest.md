@@ -81,3 +81,5 @@ Don't put name/password in url structure.
 
 SDKs, provide them if you can.  Keep them up to date with API and documentation.    
 
+Undisturbed REST book.   
+
