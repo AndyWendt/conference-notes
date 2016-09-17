@@ -33,5 +33,6 @@ HTTPS a metric for ranking pages.
 
 Decision making process is on a mobile device whereas the purchase process is on a desktop--for now.  
 
+75% of purchases start on the mobile device.  90% use mobile devices in the store.   
 
 
