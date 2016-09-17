@@ -42,6 +42,21 @@ Versioning.  Don't increase your version too quickly since other devs may loose 
     - Not obvious
 - In Custom header
     - Don't do this unless you have a really compelling reason  
+    - Requires great docs 
 
+---
+### Caching
+
+Caching is underutilized in REST even though it is in the spec. 
+
+---
+
+### Authentication 
+
+- Kill basic Auth
+    - Everybody has that one password that they haven't reset in 6 years
+
+- OAuth
+- JWT
 
 
