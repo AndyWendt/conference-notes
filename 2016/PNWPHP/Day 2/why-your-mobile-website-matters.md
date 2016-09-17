@@ -24,4 +24,7 @@ Still plenty of 2g and 3g networks.  3g is the average speed.  Built-in 600ms to
 
 You can't dev at LAN speed for a mobile device.   
 
+>Mobile pages that load 1s faster see up to +27% conversion rate  
+
+
 
