@@ -27,9 +27,11 @@ You can't dev at LAN speed for a mobile device.
 >Mobile pages that load 1s faster see up to +27% conversion rate  
 
 
-Interstitials that make content less accessible are a metric for ranking pages.  
+Interstitials that make content less accessible are used for ranking pages.  
 
 HTTPS a metric for ranking pages.  
+
+Decision making process is on a mobile device whereas the purchase process is on a desktop--for now.  
 
 
 
