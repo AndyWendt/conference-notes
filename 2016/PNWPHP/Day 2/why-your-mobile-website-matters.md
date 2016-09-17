@@ -16,5 +16,12 @@ Research mode and decision mode on same device, different times and locations.
 
 0 tolerance for slowness on a mobile device where it is different on a desktop, it is ok.     
 
+Create a good mobile experience.  Consumers expect a site to load in under 2 seconds.  
+
+Content layered over content is a no-no. 
+
+Still plenty of 2g and 3g networks.  3g is the average speed.  Built-in 600ms to 1s latency.      
+
+You can't dev at LAN speed for a mobile device.   
 
 
