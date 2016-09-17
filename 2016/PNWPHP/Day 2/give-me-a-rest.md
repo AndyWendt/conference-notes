@@ -63,4 +63,21 @@ Caching is underutilized in REST even though it is in the spec.
 
 Don't rely on just one method of protection 
 
+Be aware of SQL injection.  You MUST sanitize your data.  You don't know what your users will send back.  
+
+
+---
+
+Use Postman if you are not.  
+
+Maintenance -- need to plan for maintenance. 
+
+Don't force people to log into your documentation.  
+
+Don't put name/password in url structure.  
+
+
+---
+
+SDKs, provide them if you can.  Keep them up to date with API and documentation.    
 
